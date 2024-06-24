@@ -3,6 +3,7 @@
   <groupId>com.poscodx</groupId>
   <artifactId>springboot-myapplication</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
   <!-- parents starter -->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
