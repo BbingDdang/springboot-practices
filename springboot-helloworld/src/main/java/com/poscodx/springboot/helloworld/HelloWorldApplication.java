@@ -32,7 +32,7 @@ public class HelloWorldApplication {
 //		finally {
 //			((ConfigurableApplicationContext) ac).close();
 //		}
-		
+		// 이것도 된다. 
 //		try(ConfigurableApplicationContext ac = SpringApplication.run(HelloWorldApplication.class, args)){
 //		}
 		SpringApplication.run(HelloWorldApplication.class, args);

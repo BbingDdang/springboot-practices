@@ -1,4 +1,4 @@
-package ex03;
+package ex03.component;
 
 import org.springframework.stereotype.Component;
 
